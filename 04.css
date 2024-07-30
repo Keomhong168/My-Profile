@@ -1,0 +1,21 @@
+body {
+  background-color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+div {
+  width: 400px;
+  height: 400px;
+  background-color: brown;
+  border-radius: 50%;
+  overflow: hidden;
+  background-image: url(https://th.bing.com/th/id/OIP.RLva-S1jNB3TPu2Dl97-AAHaIV?w=166&h=187&c=7&r=0&o=5&pid=1.7);
+  background-size: cover;
+  align-items: center;
+}
+div:hover {
+  background-image: url(https://www.bing.com/th/id/OGC.eaa8c595e43162655ddb5004e95d06fc?pid=1.7&rurl=https%3a%2f%2fmedia.tenor.com%2fyueH3o90UNwAAAAC%2fshaking-head-cute-dog.gif&ehk=xkFhl%2bbXTOitfzkDOj3ARyjR0V7rIBriO4P3Uyat%2bDE%3d);
+}
